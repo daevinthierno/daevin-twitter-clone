@@ -1,0 +1,7 @@
+.widgets {
+  flex: 0.3;
+}
+iframe {
+  border: none;
+  overflow: hidden;
+}
