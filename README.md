@@ -8,5 +8,6 @@ how to run the app?
 3. install node dependencies <br/>
 	<code>npm install</code>
 4. run the app<br/>
-	<code>npm stat</code>
+	<code>npm start</code>
+	<br/>
 		Let's Go!!!
