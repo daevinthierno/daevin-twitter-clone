@@ -3,7 +3,7 @@ import "./widgets.css";
 function Widgets() {
   return (
     <div className="widgets">
-      <h2>Easy Go!</h2>
+      <h2>Easy Go!!</h2>
       <iframe
         src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdaevin-twitter.web.app/%2F&layout=button_count&size=large&width=88&height=28&appId"
         width="88"
